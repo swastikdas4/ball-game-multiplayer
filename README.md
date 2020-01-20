@@ -8,4 +8,7 @@ when one player pushes the other off the ramp the player wins. currently you hav
 working on to improve the game like powerup boxes which will pop every now and then, the player who collects the powerup will have that power for a limited time, and when a payer falls of the platform or is pushed off the platform by the other player and hits the base,there will be a pop up showing who won the game. 
 
 here are some screenshots of the game 
-https://github.com/swastikdas4/ball-game-multiplayer/tree/master/game%20screenshots
+![A Output screen](https://raw.githubusercontent.com/swastikdas4/ball-game-multiplayer/master/game%20screenshots/Screenshot%20(1).png)
+![A Output screen](https://raw.githubusercontent.com/swastikdas4/ball-game-multiplayer/master/game%20screenshots/Screenshot%20(2).png)
+![A Output screen](https://raw.githubusercontent.com/swastikdas4/ball-game-multiplayer/master/game%20screenshots/Screenshot%20(3).png)
+![A Output screen](https://raw.githubusercontent.com/swastikdas4/ball-game-multiplayer/master/game%20screenshots/Screenshot%20(4).png)
